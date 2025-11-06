@@ -1,4 +1,4 @@
-# ☕ Matcha Shop
+# 🍵🍃 Matcha Shop
 
 A modern, responsive website for **Matcha Shop**, a coffee shop offering premium coffee and delicious food items. Built using **HTML**, **CSS**, and **JavaScript**, this template includes all essential sections for a professional online presence.
 
