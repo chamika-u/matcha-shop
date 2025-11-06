@@ -16,7 +16,7 @@
     --dark-color: #252525;
     --primary-color: #44624a;
     --secondary-color: 	#c0cfb2;
-    --cream-color: #f1ebe1;
+    --anti-flash-white: #f1ebe1;
     --medium-gray-color: #8ba888;
 
     /* Font Sizes */
@@ -201,7 +201,7 @@ header .navbar {
 /* About Section Styles */
 .about-section {
     padding: 120px 0;
-    background: var(--cream-color);
+    background: var(--anti-flash-white);
 
 }
 
@@ -293,7 +293,7 @@ header .navbar {
 /* Testimonial Section Styles */
 .testimonials-section {
     padding: 50px 0 100px;
-    background: var(--cream-color);
+    background: var(--anti-flash-white);
 }
 
 .testimonials-section .slider-wrapper {
@@ -374,7 +374,7 @@ header .navbar {
 /* Contact Us Section */
 .contact-section {
     padding: 50px 0 100px;
-    background: var(--cream-color);
+    background: var(--anti-flash-white);
 }
  .contact-section .section-content{
     display: flex;
